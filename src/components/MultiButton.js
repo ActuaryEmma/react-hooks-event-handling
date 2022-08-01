@@ -4,6 +4,7 @@ function MultiButton() {
   function handleClick(number) {
     console.log(`Button ${number} was clicked`);
   }
+  
 
   return (
     <div>
